@@ -1,0 +1,6 @@
+{
+  "name": "Career Calendar — 채용공고 통합 캘린더",
+  "description": "자동차 및 제조업 구직자를 위한 채용공고 및 지원 마감일 통합 관리 캘린더 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
